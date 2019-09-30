@@ -22,3 +22,11 @@ let Calculator ={add:function(){
 },divide: function(){
   return 10 / 5;
 }};
+function actionApplyer(int , arr){
+  if (arr.length === 0){
+    return int;
+  }
+  else{
+    
+  }
+}
