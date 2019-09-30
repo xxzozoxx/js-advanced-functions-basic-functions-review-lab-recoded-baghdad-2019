@@ -27,6 +27,7 @@ function actionApplyer(int , arr){
     return int;
   }
   else{
-    
+    return 4 % int;
   }
 }
+actionApplyer(13,['something'])
