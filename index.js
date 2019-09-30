@@ -13,3 +13,12 @@ function wrapAdjective(adjective = '*'){
   }
 }
 wrapAdjective("%")("a dedicated programmer")
+let Calculator ={function add(){
+  return 1 + 3;
+}, function subtract(){
+  return 1 - 3;
+},function multiply(){
+  return 1 * 3;
+}, function divide(){
+  return 10 / 5;
+}};
